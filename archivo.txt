@@ -1,2 +1,1 @@
-Documento 1
-Documento agregado en rama2
+Cambio en rama2
